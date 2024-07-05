@@ -1,0 +1,4 @@
+ragtest/input/
+ragtest/output/
+lancedb/
+.env
