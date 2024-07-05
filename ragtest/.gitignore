@@ -1,4 +1,4 @@
 input/
 output/
-lancedb/
+lancedb/description_embedding.lance/
 .env
